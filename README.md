@@ -1,7 +1,7 @@
 
 # (Attempting) PRNTSC Organizer
 
-An attempt to organize the screenshots on prnt.sc
+An attempt to categorize the screenshots on prnt.sc
 
 ## URL Structure
 https://prnt.sc/ 6 numbers or letters
