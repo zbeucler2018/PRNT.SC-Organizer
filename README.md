@@ -11,7 +11,7 @@ https://prnt.sc/(0-9)(0-9)(a-z)(a-z)(a-z) for best results
 
 
 ## TODO
-[ ] Figure out which urls do not have a image
-[ ] Use image classification AI to classify images
-[ ] create website (django)
-[ ] automatically create categories for new classifications of images
+- [ ] Figure out which urls do not have a image
+- [ ] Use image classification AI to classify images
+- [ ] create website (django)
+- [ ] automatically create categories for new classifications of images
